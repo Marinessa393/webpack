@@ -1,0 +1,1 @@
+ul{list-style:none}body{background:#000;color:wheat}.home{background:#dfcfcf;color:#000}.about,.home{display:flex;flex-flow:column}.about{background:#012503}.housesList{display:flex;flex-flow:row wrap;justify-content:space-evenly}.housesItem{display:flex;flex-flow:column;align-items:center}
