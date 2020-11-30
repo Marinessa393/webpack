@@ -1,0 +1,6 @@
+.home {
+  display: flex;
+  flex-flow: column;
+  background: rgb(223, 207, 207);
+  color: black;
+}
