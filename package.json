@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paris-school/webpack_bundle.git"
+    "url": "git+httpshttps://github.com/Marinessa393/webpack.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marinessa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paris-school/webpack_bundle/issues"
+    "url": "https://github.com/Marinessa393/webpack/issues"
   },
-  "homepage": "https://github.com/paris-school/webpack_bundle#readme",
+  "homepage": "https://github.com/Marinessa393/webpack#readme",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
